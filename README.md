@@ -1,6 +1,6 @@
 # git-demo
 ## 内容介绍
-### 1. Open source开源
+### 1. Open source开源 [Wikipedia](https://en.wikipedia.org/wiki/Open_source)
 开源是一种非常酷的行为，将代码向所有人呈现，并且允许大家一起进行再创作，分发以及销售。
 
 ### 2. Github 作为开源社区
